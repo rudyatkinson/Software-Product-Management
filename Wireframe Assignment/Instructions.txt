@@ -1,1 +1,4 @@
-This social media application is called ShareIt. The product allows users to create posts about whatever they wish and share them with their followers. When a post is created, it will be displayed on the timeline of all the users that follow them. Next to the post, the users will see the profile picture of the user and the user’s display name. There is also a timestamp displayed with each post that shows the date and time that the post was created. Users are also able to search through all posts, so that they can find posts of a certain topic.
+This social media application is called ShareIt. The product allows users to create posts about whatever they wish and share them with their followers. When a post is created, it
+will be displayed on the timeline of all the users that follow them. Next to the post, the users will see the profile picture of the user and the user’s display name. There is 
+also a timestamp displayed with each post that shows the date and time that the post was created. Users are also able to search through all posts, so that they can find posts of a
+certain topic.
