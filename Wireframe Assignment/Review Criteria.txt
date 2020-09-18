@@ -2,9 +2,10 @@ This peer review process gives you the opportunity to see a number of approaches
 
 You will be given the opportunity to review the assignments of your peers and provide feedback.
 
-Others may choose to take a different direction that you did. This is the great thing about these assignments. We want everyone to take their own approach. Please respect this when you are reviewing the work of others.
+Others may choose to take a different direction that you did. This is the great thing about these assignments. We want everyone to take their own approach. 
+Please respect this when you are reviewing the work of others.
 
 You will be graded on the follow criteria:
 
-Did you create a low-fidelity wireframe with no design elements?
-Did you include all the requirements in your wireframe?
+  1.Did you create a low-fidelity wireframe with no design elements?
+  2.Did you include all the requirements in your wireframe?
